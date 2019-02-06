@@ -16,8 +16,5 @@ end
 
 group :development do
   gem 'web-console', '~> 2.0'
-<<<<<<< HEAD
+
 end
-=======
-end
->>>>>>> 3339f4378526501c9c5d86746a5f2578d0e9c64a
